@@ -63,7 +63,7 @@ This case study demonstrates the complete UX/UI design process—from research a
 ---
 
 ## Case Study
-**[View the Complete UX/UI Case Study PDF](Base360-AI-SaaS-Landing-Page-UX-Case-Study.pdf)**
+**[View the Complete UX/UI Case Study PDF](https://github.com/jananielogendra/uiux-design-portfolio/blob/main/02-Base360-AI-SaaS-Landing-Page/16-Base360-AI-SaaS-Landing-Page-UX-Case-Study.pdf)**
 
 ---
 
