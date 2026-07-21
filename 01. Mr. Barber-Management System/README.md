@@ -95,8 +95,7 @@ Project Structure
 
 Links
 
-Figma Project Link
-design 
+Figma Screen's Link
 https://www.figma.com/design/memp9sqitenMqAHX1lufdm/Mr.-Barber?node-id=0-1&t=4IU74PnLNGy6E3Lk-1
 
 Figma Customer pages' Prototype Link
