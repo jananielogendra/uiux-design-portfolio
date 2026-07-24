@@ -1,4 +1,4 @@
-<img width="1440" height="4724" alt="Landing page" src="https://github.com/user-attachments/assets/71d97646-df72-4a6a-8c47-ca9a52fefa46" /># Duskpine — Quiet, Naturally
+# Duskpine — Quiet, Naturally
 
 > **UX/UI Case Study | Brand Identity | E-commerce Experience | Social Media Campaign**
 
