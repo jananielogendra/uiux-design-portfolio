@@ -61,7 +61,7 @@ https://www.figma.com/proto/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?n
 * Social Media Designs
 https://www.figma.com/design/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?node-id=13-8&t=vN3EErVRC804DDrW-1
 * UX Case Study
-**[View the Complete UX/UI Case Study PDF](# Duskpine — Quiet, Naturally
+[View the Complete UX/UI Case Study PDF](# Duskpine — Quiet, Naturally
 
 > **UX/UI Case Study | Brand Identity | E-commerce Experience | Social Media Campaign**
 
