@@ -1,4 +1,4 @@
-# Duskpine — Quiet, Naturally
+<img width="1440" height="4724" alt="Landing page" src="https://github.com/user-attachments/assets/71d97646-df72-4a6a-8c47-ca9a52fefa46" /># Duskpine — Quiet, Naturally
 
 > **UX/UI Case Study | Brand Identity | E-commerce Experience | Social Media Campaign**
 
@@ -54,16 +54,23 @@ The primary objective was to create a user-centred digital experience that educa
 
 * Brand Identity
 https://www.figma.com/design/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?node-id=0-1&t=vN3EErVRC804DDrW-1
+<img width="1440" height="1024" alt="01-Brand-Identity" src="https://github.com/user-attachments/assets/2f8254bc-c141-465a-8ad2-cb2abeb358e0" />
+
+
 * Landing Page Design
 https://www.figma.com/proto/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?node-id=13-9&viewport=69%2C131%2C0.27&t=QVmQykId45LN2rp3-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A4
+<img width="1440" height="4724" alt="Landing page" src="https://github.com/user-attachments/assets/b422afd2-6134-4b85-9579-3f103dc7f463" />
+
 * Checkout Experience
 https://www.figma.com/proto/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?node-id=13-110&viewport=-191%2C100%2C0.23&t=HnXpzHdXSl5pb3aD-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A4
+<img width="1440" height="2006" alt="Checkout page" src="https://github.com/user-attachments/assets/7128234f-f2c0-4441-a166-f3b10f958a99" />
+
 * Social Media Designs
 https://www.figma.com/design/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?node-id=13-8&t=vN3EErVRC804DDrW-1
+<img width="1200" height="675" alt="Twitter post" src="https://github.com/user-attachments/assets/c071e82e-e12e-412e-ab03-d92b9f4b6fec" />
+
 * UX Case Study
 [View the Complete UX/UI Case Study PDF](# Duskpine — Quiet, Naturally
-
-> **UX/UI Case Study | Brand Identity | E-commerce Experience | Social Media Campaign**
 
 ## Overview
 
