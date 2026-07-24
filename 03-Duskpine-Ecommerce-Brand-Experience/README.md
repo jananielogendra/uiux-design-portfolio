@@ -61,7 +61,7 @@ https://www.figma.com/proto/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?n
 * Social Media Designs
 https://www.figma.com/design/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?node-id=13-8&t=vN3EErVRC804DDrW-1
 * UX Case Study
-03-Duskpine-Ecommerce-Brand-Experience/Interaction Design & Component System.pdf
+**[View the Complete UX/UI Case Study PDF](https://github.com/jananielogendra/uiux-design-portfolio/blob/main/02-Base360-AI-SaaS-Landing-Page/16-Base360-AI-SaaS-Landing-Page-UX-Case-Study.pdf)**
 
 ---
 
