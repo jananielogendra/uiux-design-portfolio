@@ -124,7 +124,8 @@ https://www.figma.com/proto/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?n
 * Social Media Designs
 https://www.figma.com/design/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?node-id=13-8&t=vN3EErVRC804DDrW-1
 * UX Case Study
-03-Duskpine-Ecommerce-Brand-Experience/Interaction Design & Component System.pdf
+**[View the Complete UX/UI Case Study PDF](https://github.com/jananielogendra/uiux-design-portfolio/blob/3acbd27fd2522d776709203e73c797c6cf25a33b/03-Duskpine-Ecommerce-Brand-Experience/Interaction%20Design%20%26%20Component%20System.pdf
+)**
 
 ---
 
