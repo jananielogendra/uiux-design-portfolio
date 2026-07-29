@@ -102,25 +102,19 @@ This project follows a complete user-centred design workflow:
 
 ## 📱 Figma Design
 
-**View the complete UI design**
-
-https://www.figma.com/design/memp9sqitenMqAHX1lufdm/Mr.-Barber?node-id=0-1&t=4IU74PnLNGy6E3Lk-1
+🔗 [View Complete UI Design](https://www.figma.com/design/memp9sqitenMqAHX1lufdm/Mr.-Barber?node-id=0-1&t=4IU74PnLNGy6E3Lk-1)
 
 ---
 
 ## 👤 Customer Prototype
 
-**Interactive Prototype**
-
-https://www.figma.com/proto/memp9sqitenMqAHX1lufdm/Mr.-Barber?node-id=13-10&viewport=1293%2C773%2C0.35&t=iY1kMoeIf6Vwt6hG-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=13%3A10&show-proto-sidebar=1&page-id=0%3A1
+🔗 [View Customer Prototype](https://www.figma.com/proto/memp9sqitenMqAHX1lufdm/Mr.-Barber?node-id=13-10&viewport=1293%2C773%2C0.35&t=iY1kMoeIf6Vwt6hG-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=13%3A10&show-proto-sidebar=1&page-id=0%3A1)
 
 ---
 
 ## 🛠 Admin Prototype
 
-**Interactive Prototype**
-
-https://www.figma.com/proto/memp9sqitenMqAHX1lufdm/Mr.-Barber?node-id=96-30&viewport=3154%2C-1795%2C0.25&t=mC8QPF098vq2YOJJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=170%3A448&show-proto-sidebar=1&page-id=0%3A1
+🔗 [View Admin Prototype](https://www.figma.com/proto/memp9sqitenMqAHX1lufdm/Mr.-Barber?node-id=96-30&viewport=3154%2C-1795%2C0.25&t=mC8QPF098vq2YOJJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=170%3A448&show-proto-sidebar=1&page-id=0%3A1)
 
 ---
 
