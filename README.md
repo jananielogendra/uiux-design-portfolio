@@ -167,7 +167,7 @@ uiux-design-portfolio
 
 UI/UX Designer
 
-* 📧 Email: *[jananielogendra05@gmail.com)*
+* 📧 Email: *jananielogendra05@gmail.com*
 * 💼 LinkedIn: *www.linkedin.com/in/jananie-logendra-0395jl*
 
 ---
