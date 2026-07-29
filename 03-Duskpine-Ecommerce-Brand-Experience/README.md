@@ -120,6 +120,10 @@ The primary objective was to create a user-centred digital experience that educa
 
 UI/UX Designer
 
+📧 **Email:** [jananielogendra05@gmail.com](mailto:jananielogendra05@gmail.com)
+
+💼 **LinkedIn:** [www.linkedin.com/in/jananie-logendra-0395jl](http://www.linkedin.com/in/jananie-logendra-0395jl)
+
 ---
 
 ## 🙏 Thank You
