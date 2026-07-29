@@ -1,49 +1,51 @@
-Mr. Barber – Booking App UI/UX Case Study
+# 💈 Mr. Barber – Booking App UI/UX Case Study
 
-A complete UI/UX case study for a mobile barber appointment booking application designed to improve user convenience, reduce waiting time, and modernize traditional barber shop workflows.
-
----
-
-Project Overview
-
-Mr. Barber is a mobile-first barber booking application that allows users to book appointments, choose preferred barbers, and manage time slots efficiently.
-
-This project focuses on solving real-world problems such as long waiting times, manual booking processes, and lack of appointment visibility.
+> **UX/UI Case Study | Mobile App Design | Appointment Booking | Admin Dashboard**
 
 ---
 
-Problem Statement
+## 📖 Project Overview
 
-Traditional barber shops rely on walk-in customers and manual scheduling, which leads to:
+Mr. Barber is a mobile-first barber booking application that allows users to book appointments, choose their preferred barber, and manage time slots efficiently.
 
-- Long waiting times
-- Inefficient appointment management
-- No visibility of available time slots
-- Inconvenience for customers
+This project focuses on solving real-world problems such as long waiting times, manual booking processes, and the lack of appointment visibility, delivering a seamless and user-friendly booking experience.
 
 ---
 
-Solution
+## 🚨 Problem Statement
 
-A mobile application that enables users to:
+Traditional barber shops often rely on walk-in customers and manual scheduling, resulting in:
 
-- Book appointments online
-- Select preferred barber
-- Choose available time slots
-- Receive instant booking confirmation
-- Improve overall service experience
-
----
-
-My Role
-
-UI/UX Designer
+* Long waiting times
+* Inefficient appointment management
+* Limited visibility of available time slots
+* Inconvenient booking experience for customers
 
 ---
 
-UX Process
+## 💡 Solution
 
-This project follows a complete UX design workflow:
+A mobile application designed to modernize the booking experience by enabling users to:
+
+* Book appointments online
+* Select their preferred barber
+* Choose available time slots
+* Receive instant booking confirmation
+* Enjoy a faster and more convenient service experience
+
+---
+
+## 👩‍💻 My Role
+
+**UI/UX Designer**
+
+Responsible for the complete UX/UI design process, including user research, wireframing, design system creation, high-fidelity interface design, and interactive prototyping.
+
+---
+
+## 🧩 UX Design Process
+
+This project follows a complete user-centred design workflow:
 
 1. User Research
 2. User Personas
@@ -55,67 +57,97 @@ This project follows a complete UX design workflow:
 
 ---
 
-Target Users
+## 👥 Target Users
 
-- Working Professionals
-- University Students
-- Regular Barber Customers
-- Barbers and Shop Owners
-
----
-
-Tools Used
-
-- Figma (UI Design and Prototyping)
-- Canva (Persona Design)
-- GitHub (Project Documentation)
+* Working Professionals
+* University Students
+* Regular Barber Shop Customers
+* Barbers and Shop Owners
 
 ---
 
-Design Highlights
+## ✨ Design Highlights
 
-- Mobile-first design approach
-- Clean and structured UI layout
-- High contrast luxury barber theme
-- Simple and intuitive booking flow
-- Reusable design system components
-
----
-
-Project Structure
-
-- Case Study (PDF and DOCX)
-- User Research and Personas
-- Wireframes and User Flow
-- Design System
-- Final UI Screens
-- Prototype Link
+* Mobile-first design approach
+* Clean and intuitive user interface
+* Luxury-inspired visual theme
+* Streamlined appointment booking flow
+* Reusable design system components
+* User-centred interaction design
 
 ---
 
-Links
+## 🛠 Tools Used
 
-Figma Screen's Link
+* Figma (UI Design & Interactive Prototyping)
+* Canva (Persona Design)
+* GitHub (Project Documentation)
+
+---
+
+## 📂 Project Structure
+
+* UX Case Study (PDF & DOCX)
+* User Research
+* User Personas
+* User Flow
+* Wireframes
+* Design System
+* Final UI Screens
+* Interactive Prototypes
+
+---
+
+# 🎨 Deliverables
+
+## 📱 Figma Design
+
+**View the complete UI design**
+
 https://www.figma.com/design/memp9sqitenMqAHX1lufdm/Mr.-Barber?node-id=0-1&t=4IU74PnLNGy6E3Lk-1
 
-Figma Customer pages' Prototype Link
+---
+
+## 👤 Customer Prototype
+
+**Interactive Prototype**
+
 https://www.figma.com/proto/memp9sqitenMqAHX1lufdm/Mr.-Barber?node-id=13-10&viewport=1293%2C773%2C0.35&t=iY1kMoeIf6Vwt6hG-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=13%3A10&show-proto-sidebar=1&page-id=0%3A1
 
-Figma Admin pages' Prototype Link
+---
+
+## 🛠 Admin Prototype
+
+**Interactive Prototype**
+
 https://www.figma.com/proto/memp9sqitenMqAHX1lufdm/Mr.-Barber?node-id=96-30&viewport=3154%2C-1795%2C0.25&t=mC8QPF098vq2YOJJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=170%3A448&show-proto-sidebar=1&page-id=0%3A1
 
+---
+
+## 📈 Outcome
+
+This project demonstrates a complete end-to-end UX design process, from research and problem definition to high-fidelity interface design and interactive prototyping. The final solution focuses on improving usability, reducing booking friction, and delivering a modern, user-centred experience for both customers and barber shop administrators.
 
 ---
 
-Outcome
+## 👤 Designer
 
-This project demonstrates a complete end-to-end UX process from research to final UI design, focusing on usability, accessibility, and user-centered design thinking.
+**Jananie Logendra**
+
+UI/UX Designer
+
+📧 **Email:** [jananielogendra05@gmail.com](mailto:jananielogendra05@gmail.com)
+
+💼 **LinkedIn:** [www.linkedin.com/in/jananie-logendra-0395jl](http://www.linkedin.com/in/jananie-logendra-0395jl)
 
 ---
 
-Contact
+## 🙏 Thank You
 
-Jananie Logendra  
-UI/UX Designer  
-Email: jananielogendra05@gmail.com  
-LinkedIn: www.linkedin.com/in/jananie-logendra-0395jl
+Thank you for taking the time to explore this project.
+
+This case study reflects my approach to solving real-world problems through user research, thoughtful interaction design, and intuitive user experiences. I welcome feedback, collaboration opportunities, and professional connections.
+
+---
+
+*This project was created as an independent UI/UX case study for portfolio purposes.*
