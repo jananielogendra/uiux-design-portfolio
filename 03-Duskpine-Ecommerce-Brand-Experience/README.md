@@ -90,10 +90,8 @@ https://www.figma.com/design/6Bcs45glLthT7hd3GYXw1O/Duskpine---Quiet--Naturally?
 
 **Complete UX/UI Case Study (PDF)**
 
-> *Upload your PDF to this repository and replace the link below.*
-
 ```text
-/Duskpine-UX-UI-Case-Study.pdf
+[/Duskpine-UX-UI-Case-Study.pdf](https://github.com/jananielogendra/uiux-design-portfolio/blob/main/03-Duskpine-Ecommerce-Brand-Experience/Interaction%20Design%20%26%20Component%20System.pdf)
 ```
 
 ---
