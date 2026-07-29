@@ -122,7 +122,7 @@ This project follows a complete user-centred design workflow:
 
 **Complete UX/UI Case Study (PDF)**
 
-📥 [View Complete UX/UI Case Study (PDF)](https://github.com/jananielogendra/uiux-design-portfolio/blob/main/01.%20Mr.%20Barber-Management%20System/01-Case-Study/Mr-Barber-UX-Case-Study.pdf)
+📖 [View Complete UX/UI Case Study (PDF)](https://github.com/jananielogendra/uiux-design-portfolio/blob/main/01.%20Mr.%20Barber-Management%20System/01-Case-Study/Mr-Barber-UX-Case-Study.pdf)
 
 ---
 
