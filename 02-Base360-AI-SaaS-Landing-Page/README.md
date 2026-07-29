@@ -107,13 +107,13 @@ This project follows a structured UX design workflow:
 
 ## 🎨 Design File
 
-https://www.figma.com/design/KYkOMocvKKKb3FP3r4QGLn/Base360---AI-Conversations--Reimagined?node-id=0-1&t=EVsKPWLxO2Mxzgc7-1
+🔗 [View Complete Design File](https://www.figma.com/design/KYkOMocvKKKb3FP3r4QGLn/Base360---AI-Conversations--Reimagined?node-id=0-1&t=EVsKPWLxO2Mxzgc7-1)
 
 ---
 
 ## ▶️ Interactive Prototype
 
-https://www.figma.com/proto/KYkOMocvKKKb3FP3r4QGLn/Base360---AI-Conversations--Reimagined?node-id=6-1213&p=f&viewport=360%2C221%2C0.17&t=fbuciBdJzV0TcI3C-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A1209
+🔗 [View Interactive Prototype](https://www.figma.com/proto/KYkOMocvKKKb3FP3r4QGLn/Base360---AI-Conversations--Reimagined?node-id=6-1213&p=f&viewport=360%2C221%2C0.17&t=fbuciBdJzV0TcI3C-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A1209)
 
 ---
 
@@ -121,7 +121,7 @@ https://www.figma.com/proto/KYkOMocvKKKb3FP3r4QGLn/Base360---AI-Conversations--R
 
 ## 🎬 Loom Walkthrough
 
-https://www.loom.com/share/8b1e0f43ec82435099889fcf00ac8908
+🔗 [Watch Project Walkthrough](https://www.loom.com/share/8b1e0f43ec82435099889fcf00ac8908)
 
 ---
 
@@ -137,9 +137,9 @@ This project demonstrates a complete end-to-end UX/UI design process, transformi
 
 UI/UX Designer | Project Management Enthusiast | Business Analysis
 
-💻 **GitHub:** https://github.com/jananielogendra
+💻 **Gmail:** [Mail address](jananielogendra05@gmail.com)
 
-💼 **LinkedIn:** [www.linkedin.com/in/jananie-logendra-0395jl](http://www.linkedin.com/in/jananie-logendra-0395jl)
+💼 **LinkedIn:** [View LinkedIn Profile](http://www.linkedin.com/in/jananie-logendra-0395jl)
 
 ---
 
