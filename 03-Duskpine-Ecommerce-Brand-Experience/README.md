@@ -90,7 +90,7 @@ The primary objective was to create a user-centred digital experience that educa
 
 **Complete UX/UI Case Study (PDF)**
 
-📥 [View Complete UX/UI Case Study (PDF)](https://github.com/jananielogendra/uiux-design-portfolio/raw/main/03-Duskpine-Ecommerce-Brand-Experience/Interaction%20Design%20%26%20Component%20System.pdf)
+📥 [View Complete UX/UI Case Study (PDF)](https://github.com/jananielogendra/uiux-design-portfolio/blob/main/03-Duskpine-Ecommerce-Brand-Experience/Interaction%20Design%20%26%20Component%20System.pdf)
 
 ---
 
