@@ -1,96 +1,116 @@
-# UI/UX Design Portfolio
+# 🎨 UI/UX Design Portfolio
 
-Welcome to my **UI/UX Design Portfolio**. This repository showcases a collection of end-to-end UX/UI case studies that demonstrate my design thinking, problem-solving approach, and ability to create user-centred digital experiences.
+Welcome to my **UI/UX Design Portfolio** repository.
 
-Each project follows a structured design process—from understanding the problem and defining business goals to creating intuitive user experiences, high-fidelity interfaces, and scalable design systems. My focus is on designing products that balance user needs with business objectives while delivering visually engaging and accessible experiences.
+This repository showcases a collection of end-to-end UX/UI case studies demonstrating my design process, research approach, problem-solving skills, and ability to create user-centred digital experiences.
 
----
+Each project follows a structured design workflow — from understanding user needs and defining business objectives to creating information architecture, wireframes, design systems, high-fidelity interfaces, and interactive prototypes.
 
-## About Me
-
-Hi, I'm **Jananie Logendra**, a UI/UX Designer passionate about creating meaningful digital experiences through research-driven design, thoughtful interaction, and modern visual aesthetics.
-
-I enjoy transforming complex problems into intuitive, user-friendly solutions while maintaining a strong focus on usability, accessibility, consistency, and business value.
+My approach focuses on creating digital products that balance **user experience, business goals, usability, accessibility, and visual consistency**.
 
 ---
 
-# Featured Projects
+# 👋 About Me
+
+Hi, I'm **Jananie Logendra**, a UI/UX Designer passionate about designing meaningful digital experiences through research-driven design, thoughtful interactions, and modern visual aesthetics.
+
+I enjoy transforming complex problems into simple, intuitive solutions while focusing on usability, accessibility, consistency, and business impact.
+
+---
+
+# 🚀 Featured Projects
 
 ## 01. Mr. Barber Management System
 
-A complete UX/UI case study for a modern barber shop management platform, designed to streamline appointment scheduling, customer management, and administrative operations through intuitive user experiences.
+A complete UX/UI case study for a modern barber shop management platform designed to improve appointment scheduling, customer management, and administrative operations through intuitive digital experiences.
 
-**Project Includes**
+### 📌 Project Deliverables
 
-* Branding
+* UX/UI Case Study
 * User Research
-* Design diagram
-* Personas
+* User Personas
 * User Flows
 * Wireframes
 * Branding
 * Design System
-* High-Fidelity UI
-* Interactive Prototypes
+* Customer Interface Design
+* Admin Dashboard Interface Design
+* Interactive User Interfaces
+* Project Documentation
+* Readme Documentation
+* Project Links
 
 ---
 
-## 🤖 02. Base360 — AI Conversations, Reimagined
+## 02. Base360 — AI Conversations, Reimagined
 
-A UX/UI case study for an AI-powered SaaS platform that helps businesses manage customer conversations through a unified communication system.
+A UX/UI case study for an AI-powered SaaS communication platform that helps businesses manage customer conversations through a unified intelligent system.
 
 The project focuses on simplifying complex AI capabilities into a clean, engaging, and conversion-focused landing page experience.
 
-**Project Includes**
+### 📌 Project Deliverables
 
-* Product Research
-* UX Strategy
+* Cover Page
+* Project Overview
+* Product Understanding
+* Problem Statement
+* Business Goals
+* Target Audience Research
+* Competitor Research
+* User Journey Mapping
 * Information Architecture
 * Wireframes
+* Visual Direction
 * Design System
-* Responsive UI Design
-* Landing Page
-* Interactive Prototype
+* Final Landing Page Design
+* Mobile Responsive Design
+* Key Takeaways
+* UX/UI Case Study
+* Case Study PDF
+* Project Links
 
 ---
 
-## 🌙 03. Duskpine — Quiet, Naturally
+## 03. Duskpine — Quiet, Naturally
 
-A premium e-commerce UX/UI case study created for a conceptual direct-to-consumer wellness brand selling handcrafted natural beeswax noise-cancelling earplugs.
+A premium e-commerce UX/UI case study created for a conceptual wellness brand offering handcrafted natural beeswax noise-cancelling earplugs.
 
-The project covers the complete customer journey from establishing a premium brand identity to designing a responsive landing page, checkout experience, and social media campaign.
+The project explores a complete brand and shopping experience — from visual identity creation to responsive e-commerce design and marketing touchpoints.
 
-**Project Includes**
+### 📌 Project Deliverables
 
 * Brand Identity
-* Design System
-* Landing Page
-* Checkout Experience
-* Responsive Design
+* Landing Page and Checkout Experience Design
 * Social Media Campaign
+* Case Study PDF
+* Readme Documentation
 
 ---
 
-# 🛠 Design Tools
+# 🛠️ Design Tools
 
 * Figma
 * FigJam
 * Canva
+* Anima
 
 ---
 
-# 🎯 UX Principles Applied
+# 🎯 UX Design Process
 
-Throughout these projects, every design decision was guided by key UX principles:
+The projects follow a user-centred design approach:
 
-* User-Centred Design
-* Simplicity
-* Clarity
-* Consistency
-* Accessibility
-* Visual Hierarchy
+* Research & Understanding
+* Problem Definition
+* User Analysis
+* User Journey Mapping
+* Information Architecture
+* Wireframing
+* Visual Design
+* Design Systems
 * Responsive Design
-* Conversion-Focused UX
+* Prototyping
+* Testing & Iteration
 
 ---
 
@@ -100,8 +120,43 @@ Throughout these projects, every design decision was guided by key UX principles
 uiux-design-portfolio
 │
 ├── 01-Mr-Barber-Management-System
+│   ├── Case Study
+│   ├── Research
+│   ├── Personas
+│   ├── User Flows
+│   ├── Wireframes
+│   ├── Branding
+│   ├── Design System
+│   ├── Customer UI
+│   ├── Admin UI
+│   ├── Project Links
+│   └── README.md
+│
 ├── 02-Base360-AI-SaaS-Landing-Page
+│   ├── Cover Page
+│   ├── Project Overview
+│   ├── Product Understanding
+│   ├── Problem Statement
+│   ├── Business Goals
+│   ├── Target Audience
+│   ├── Competitor Research
+│   ├── User Journey
+│   ├── Information Architecture
+│   ├── Wireframes
+│   ├── Visual Direction
+│   ├── Design System
+│   ├── Final Landing Page
+│   ├── Mobile Responsive Design
+│   ├── Case Study PDF
+│   ├── Project Link
+│   └── README.md
+│
 └── 03-Duskpine-Ecommerce-Brand-Experience
+    ├── Brand Identity
+    ├── Landing Page & Checkout Page
+    ├── Social Media Campaign
+    ├── Case Study PDF
+    └── README.md
 ```
 
 ---
@@ -112,12 +167,15 @@ uiux-design-portfolio
 
 UI/UX Designer
 
-* 📧 Email: *[your-email@example.com](mailto:your-email@example.com)*
-* 💼 LinkedIn: *Add your LinkedIn profile*
-* 🎨 Figma: *Add your Figma profile*
+* 📧 Email: *[jananielogendra05@gmail.com)*
+* 💼 LinkedIn: *www.linkedin.com/in/jananie-logendra-0395jl*
 
 ---
 
-### Thank you for visiting my portfolio!
+## 🙌 Thank You for Visiting My Portfolio
 
-I hope these projects provide insight into my design process, problem-solving approach, and passion for creating intuitive digital experiences. Feedback and collaboration opportunities are always welcome.
+Thank you for exploring my UX/UI design work.
+
+I hope these projects provide insight into my design thinking, problem-solving approach, and passion for creating intuitive digital experiences.
+
+Feedback, collaboration, and new opportunities are always welcome.
