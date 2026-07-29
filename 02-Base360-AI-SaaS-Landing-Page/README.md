@@ -151,6 +151,3 @@ This case study reflects my approach to solving complex product challenges throu
 
 I welcome feedback, collaboration opportunities, and professional connections.
 
----
-
-*This project was created as an independent UX/UI case study for portfolio purposes.*
