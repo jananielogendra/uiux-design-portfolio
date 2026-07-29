@@ -99,7 +99,7 @@ This project follows a structured UX design workflow:
 
 **Complete UX/UI Case Study (PDF)**
 
-📥 **[View Complete UX/UI Case Study (PDF)](https://github.com/jananielogendra/uiux-design-portfolio/raw/main/02-Base360-AI-SaaS-Landing-Page/16-Base360-AI-SaaS-Landing-Page-UX-Case-Study.pdf)**
+📥 **[View Complete UX/UI Case Study (PDF)](https://github.com/jananielogendra/uiux-design-portfolio/blob/main/02-Base360-AI-SaaS-Landing-Page/16-Base360-AI-SaaS-Landing-Page-UX-Case-Study.pdf)**
 
 ---
 
