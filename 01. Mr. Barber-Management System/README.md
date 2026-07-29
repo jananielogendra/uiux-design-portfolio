@@ -118,6 +118,14 @@ This project follows a complete user-centred design workflow:
 
 ---
 
+## 📄  Case Study
+
+**Complete UX/UI Case Study (PDF)**
+
+📥 [View Complete UX/UI Case Study (PDF)](https://github.com/jananielogendra/uiux-design-portfolio/raw/main/03-Duskpine-Ecommerce-Brand-Experience/Interaction%20Design%20%26%20Component%20System.pdf)
+
+---
+
 ## 📈 Outcome
 
 This project demonstrates a complete end-to-end UX design process, from research and problem definition to high-fidelity interface design and interactive prototyping. The final solution focuses on improving usability, reducing booking friction, and delivering a modern, user-centred experience for both customers and barber shop administrators.
