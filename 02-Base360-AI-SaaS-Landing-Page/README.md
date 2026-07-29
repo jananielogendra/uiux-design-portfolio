@@ -137,9 +137,9 @@ This project demonstrates a complete end-to-end UX/UI design process, transformi
 
 UI/UX Designer | Project Management Enthusiast | Business Analysis
 
-💻 **Gmail:** [Mail address](jananielogendra05@gmail.com)
+📧 **Email:** [jananielogendra05@gmail.com](mailto:jananielogendra05@gmail.com)
 
-💼 **LinkedIn:** [View LinkedIn Profile](http://www.linkedin.com/in/jananie-logendra-0395jl)
+💼 **LinkedIn:** [www.linkedin.com/in/jananie-logendra-0395jl](http://www.linkedin.com/in/jananie-logendra-0395jl)
 
 ---
 
