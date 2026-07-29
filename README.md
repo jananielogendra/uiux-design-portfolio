@@ -37,8 +37,10 @@ A complete UX/UI case study for a modern barber shop management platform designe
 * Admin Dashboard Interface Design
 * Interactive User Interfaces
 * Project Documentation
-* Readme Documentation
 * Project Links
+
+🔗 **View Project:**
+[Mr. Barber Management System](https://github.com/jananielogendra/uiux-design-portfolio/tree/main/01.%20Mr.%20Barber-Management%20System)
 
 ---
 
@@ -69,6 +71,9 @@ The project focuses on simplifying complex AI capabilities into a clean, engagin
 * Case Study PDF
 * Project Links
 
+🔗 **View Project:**
+[Base360 — AI Conversations, Reimagined](https://github.com/jananielogendra/uiux-design-portfolio/tree/main/02-Base360-AI-SaaS-Landing-Page)
+
 ---
 
 ## 03. Duskpine — Quiet, Naturally
@@ -83,7 +88,10 @@ The project explores a complete brand and shopping experience — from visual id
 * Landing Page and Checkout Experience Design
 * Social Media Campaign
 * Case Study PDF
-* Readme Documentation
+* Project Documentation
+
+🔗 **View Project:**
+[Duskpine — Quiet, Naturally](https://github.com/jananielogendra/uiux-design-portfolio/tree/main/03-Duskpine-Ecommerce-Brand-Experience)
 
 ---
 
@@ -148,7 +156,7 @@ uiux-design-portfolio
 │   ├── Final Landing Page
 │   ├── Mobile Responsive Design
 │   ├── Case Study PDF
-│   ├── Project Link
+│   ├── Project Links
 │   └── README.md
 │
 └── 03-Duskpine-Ecommerce-Brand-Experience
@@ -167,8 +175,8 @@ uiux-design-portfolio
 
 UI/UX Designer
 
-* 📧 Email: *jananielogendra05@gmail.com*
-* 💼 LinkedIn: *www.linkedin.com/in/jananie-logendra-0395jl*
+* 📧 Email: *[jananielogendra05@gmail.com](mailto:jananielogendra05@gmail.com)*
+* 💼 LinkedIn: *[www.linkedin.com/in/jananie-logendra-0395jl](http://www.linkedin.com/in/jananie-logendra-0395jl)*
 
 ---
 
