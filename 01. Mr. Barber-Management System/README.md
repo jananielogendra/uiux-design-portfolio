@@ -148,4 +148,3 @@ Thank you for taking the time to explore this project.
 
 This case study reflects my approach to solving real-world problems through user research, thoughtful interaction design, and intuitive user experiences. I welcome feedback, collaboration opportunities, and professional connections.
 
----
