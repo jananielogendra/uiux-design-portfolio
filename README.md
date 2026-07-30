@@ -44,7 +44,7 @@ A complete UX/UI case study for a modern barber shop management platform designe
 
 ---
 
-## 02. Base360 — AI Conversations, Reimagined
+## 02. Base360 - AI Conversations, Reimagined
 
 A UX/UI case study for an AI-powered SaaS communication platform that helps businesses manage customer conversations through a unified intelligent system.
 
@@ -72,11 +72,11 @@ The project focuses on simplifying complex AI capabilities into a clean, engagin
 * Project Links
 
 🔗 **View Project:**
-[Base360 — AI Conversations, Reimagined](https://github.com/jananielogendra/uiux-design-portfolio/tree/main/02-Base360-AI-SaaS-Landing-Page)
+[Base360 - AI Conversations, Reimagined](https://github.com/jananielogendra/uiux-design-portfolio/tree/main/02-Base360-AI-SaaS-Landing-Page)
 
 ---
 
-## 03. Duskpine — Quiet, Naturally
+## 03. Duskpine - Quiet, Naturally
 
 A premium e-commerce UX/UI case study created for a conceptual wellness brand offering handcrafted natural beeswax noise-cancelling earplugs.
 
