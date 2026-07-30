@@ -80,7 +80,7 @@ The project focuses on simplifying complex AI capabilities into a clean, engagin
 
 A premium e-commerce UX/UI case study created for a conceptual wellness brand offering handcrafted natural beeswax noise-cancelling earplugs.
 
-The project explores a complete brand and shopping experience — from visual identity creation to responsive e-commerce design and marketing touchpoints.
+The project explores a complete brand and shopping experience - from visual identity creation to responsive e-commerce design and marketing touchpoints.
 
 ### 📌 Project Deliverables
 
