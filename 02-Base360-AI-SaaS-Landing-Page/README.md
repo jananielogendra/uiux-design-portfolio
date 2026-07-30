@@ -1,4 +1,4 @@
-# 🤖 Base360 — AI Conversations, Reimagined
+# 🤖 Base360 - AI Conversations, Reimagined
 
 > **UX/UI Case Study | AI SaaS Landing Page | Responsive Web Design | Conversion-Focused Experience**
 
@@ -8,7 +8,7 @@
 
 Base360 is an AI-powered communication platform that unifies customer conversations across multiple channels into one intelligent system.
 
-This UX/UI case study showcases the complete design process—from product research and UX strategy to high-fidelity interface design, responsive adaptation, and interactive prototyping. The primary goal was to simplify a feature-rich AI platform into a clear, engaging, and conversion-focused landing page that effectively communicates value and builds user trust.
+This UX/UI case study showcases the complete design process-from product research and UX strategy to high-fidelity interface design, responsive adaptation, and interactive prototyping. The primary goal was to simplify a feature-rich AI platform into a clear, engaging, and conversion-focused landing page that effectively communicates value and builds user trust.
 
 ---
 
