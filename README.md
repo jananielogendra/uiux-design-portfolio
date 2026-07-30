@@ -4,7 +4,7 @@ Welcome to my **UI/UX Design Portfolio** repository.
 
 This repository showcases a collection of end-to-end UX/UI case studies demonstrating my design process, research approach, problem-solving skills, and ability to create user-centred digital experiences.
 
-Each project follows a structured design workflow — from understanding user needs and defining business objectives to creating information architecture, wireframes, design systems, high-fidelity interfaces, and interactive prototypes.
+Each project follows a structured design workflow - from understanding user needs and defining business objectives to creating information architecture, wireframes, design systems, high-fidelity interfaces, and interactive prototypes.
 
 My approach focuses on creating digital products that balance **user experience, business goals, usability, accessibility, and visual consistency**.
 
