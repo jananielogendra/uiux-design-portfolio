@@ -91,7 +91,7 @@ The project explores a complete brand and shopping experience - from visual iden
 * Project Documentation
 
 🔗 **View Project:**
-[Duskpine — Quiet, Naturally](https://github.com/jananielogendra/uiux-design-portfolio/tree/main/03-Duskpine-Ecommerce-Brand-Experience)
+[Duskpine - Quiet, Naturally](https://github.com/jananielogendra/uiux-design-portfolio/tree/main/03-Duskpine-Ecommerce-Brand-Experience)
 
 ---
 
